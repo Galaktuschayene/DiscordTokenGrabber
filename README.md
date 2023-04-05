@@ -12,8 +12,10 @@ Anti Debugging
 Browser Stealing
 Discord Token Stealing
 Discord Token Injector
+
 It will create a folder Named Vault.zip you can download it then 
-in the folder you have 
+in the folder you have
+
 ![image](https://user-images.githubusercontent.com/83514902/230091600-b47918f6-7d95-4caf-b6e4-bf5bcf48edba.png)
 
 ![image](https://user-images.githubusercontent.com/83514902/230090924-ca1ce111-5799-43fa-ab4a-4ed5b4d4215e.png)
