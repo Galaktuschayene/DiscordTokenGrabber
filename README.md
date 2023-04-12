@@ -6,7 +6,7 @@
 
 3. Then press y/n if you want the extra features or not 
 
-If you need help with something reach out for me JustKyra#7781
+If you need help with something reach out for me Chayene#7781
 
 Discord Token Login (i would recomend)
 https://chrome.google.com/webstore/detail/discord-token-login/ealjoeebhfijfimofmecjcjcigmadcai
